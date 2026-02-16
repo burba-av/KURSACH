@@ -1,0 +1,9 @@
+total 10
+drwxr-xr-x 1 andre 197609   0 Feb 16 15:14 ./
+drwxr-xr-x 1 andre 197609   0 Feb 16 14:17 ../
+drwxr-xr-x 1 andre 197609   0 Feb 16 15:14 .git/
+-rw-r--r-- 1 andre 197609  12 Feb 16 14:06 .gitignore
+drwxr-xr-x 1 andre 197609   0 Feb 16 14:05 ISTOCHNIKI/
+-rw-r--r-- 1 andre 197609   0 Feb 16 15:14 comments.txt
+-rw-r--r-- 1 andre 197609 263 Feb 16 14:01 kursovaya_rabota.docx
+-rw-r--r-- 1 andre 197609   0 Feb 16 14:01 titulnik.docx
